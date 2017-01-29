@@ -55,8 +55,11 @@ h1,h2,p,footer {
   color: #ff0000;
 }
 
-
-
 footer {
   background-color: #808080;
+}
+
+img {
+	height: 200px;
+  width: 150px;
 }
